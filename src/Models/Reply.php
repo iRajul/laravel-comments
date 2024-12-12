@@ -30,7 +30,9 @@ class Reply extends Message
         'commenter_id',
         'text',
         'approved',
-        'reply_id'
+        'reply_id',
+        'created_at',
+        'updated_at'
     ];
 
 
